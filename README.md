@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 - 🥈 Finalist in Singapore India Hackathon - September 2019 
 - 🏆 Winner in SIH 2019, World's largest Hackathon - March 2019 (https://twitter.com/KCTOfficial/status/1102341860477952000)
 - 🥇 Winner in Hackathon organized by Army Institute of Technology, Pune - November 2018 (https://www.punekarnews.in/mits-team-techno-paths-bag-top-honors-at-ait-hackathon-2018/)
-- 🥈 Runner Up in SIH 2017 - March 2017 (https://nhidcl.com/smart-india-hackathon-2017-finalist/)(https://nhidcl.com/wp-content/uploads/2017/11/2-1.pdf)
+- 🥈 Runner Up in SIH 2017 - March 2017 (https://nhidcl.com/smart-india-hackathon-2017-finalist), (https://nhidcl.com/wp-content/uploads/2017/11/2-1.pdf)
 
 
 ### 📫 Let's Connect
