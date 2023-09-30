@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name](https://github.com/dj5) 👋
+### Hi there, I'm [Dhananjay Gavade](https://github.com/dj5) 👋
 
 I'm a Computer Science graduate student at the University of California, Riverside, with a passion for data engineering and machine learning. Here are some highlights of my journey so far:
 
