@@ -1,17 +1,15 @@
 ### Hi there, I'm [Dhananjay Gavade](https://github.com/dj5) 👋
 
-I'm a Computer Science graduate student at the University of California, Riverside, with a passion for data engineering and machine learning. Here are some highlights of my journey so far:
+I'm a Computer Science graduate student at the [University of California, Riverside](https://www.ucr.edu/), with a passion for data engineering and machine learning. Here are some highlights of my journey so far:
 
 - 🔭 Recently I worked at [Raven Industries](https://www.ravenind.com/) as a Data Engineer Intern, where I developed machine learning models for autonomous agriculture vehicles and building data pipelines using Apache Airflow and AWS services.
 
 - 🌱 I've previously worked at [Michelin](https://www.michelin.in/) as a Data Engineer, where I developed forecasting models and improved data processing efficiency.
 
 - 📚 My academic background includes courses in Big Data Management, Data Mining, and more. I also published a paper on hospital resource management.
-
-- 💡 I'm passionate about Kubernetes, and I recently worked on a project that used Reinforcement Learning to optimize Kubernetes pod scaling.
-
-- 🌧️ I've analyzed geospatial data to identify drought-prone regions in California.
-
+- 📈 I'm a Data Enthusiast and I have worked on Data Science and Data Engineering projects
+- 💡 I'm passionate about Machine Learning, and I recently worked on a project that used Reinforcement Learning to optimize Kubernetes pod scaling on GCP.
+- 🏆 I'm good in winning Hackathons and coding competitions. I have participated and won many national and international hackathons.
 - 💊 I developed a predictive model to forecast medicine needs for hospitals, winning first place in the Smart India Hackathon.
 
 ### 🚀 Skills and Technologies
