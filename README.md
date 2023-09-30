@@ -15,7 +15,7 @@ I'm a Computer Science graduate student at the [University of California, Rivers
 ### 🚀 Skills and Technologies
 
 - **Languages:** Python, SQL, Java, C++, JavaScript, HTML
-- **Frameworks:** PySpark, Pandas, Airflow, TensorFlow, NumPy, PyTorch
+- **Frameworks:** PySpark, Pandas, Airflow, TensorFlow, NumPy, PyTorch, Pytest
 - **Cloud Platforms:** Azure, AWS, Google Cloud Platform (GCP)
 - **Containers:** Docker, Kubernetes
 - **Version Control:** Git
